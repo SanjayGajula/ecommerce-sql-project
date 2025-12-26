@@ -1,4 +1,0 @@
-README.md
-schema.sql
-insert_data.sql
-queries.sql
